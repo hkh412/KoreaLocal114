@@ -4,6 +4,8 @@
     <string name="app_name">지역정보114</string>
     <string name="ad_unit_id">ca-app-pub-8932665111349351/6729955398</string>
     <string name="ad_unit_interstitial_id">ca-app-pub-8932665111349351/9305115791</string>
+    <string name="adbuddiz_pub_key"><![CDATA[a0417a06-3ebf-4f08-8f76-ca67ed06cac9]]></string>
+
     <string name="action_write">글등록</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
